@@ -5,6 +5,19 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+/* Company Logo */
+@media (max-width: 768px) {.company-logo {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+
+.company-logo img.logo {
+  max-width: 200px;
+  height: auto;
+  }
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -78,7 +91,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #ffedd2; }
+  background: #e7e3d8; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
