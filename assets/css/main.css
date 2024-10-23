@@ -10,11 +10,16 @@
 @media (max-width: 768px) {.company-logo {
     text-align: left;
     margin-bottom: 20px;
+    width: 100px;
+    max-width: 100px;
   }
 
 .company-logo img.logo {
-  max-width: 200px;
+  max-width: 150px;
   height: auto;
+  width: 150px;
+  display: block;
+  margin-bottom: 10px;
   }
 }
 
@@ -91,7 +96,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  background: #e7e3d8; }
+  background: #f8f8f8; }
   body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-resizing *, body.is-resizing *:before, body.is-resizing *:after {
     -moz-animation: none !important;
     -webkit-animation: none !important;
