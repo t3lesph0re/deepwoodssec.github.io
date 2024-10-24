@@ -6,9 +6,17 @@
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* General header styling */
+#header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px 0; /* Add some padding for spacing */
+}
+
 /* General logo styling */
 .company-logo {
-  text-align: center; /* Center the logo */
   margin-bottom: 10px; /* Space between logo and text */
 }
 
@@ -18,17 +26,6 @@
   height: auto;     /* Maintain the correct aspect ratio */
   display: block;
   margin: 0 auto;   /* Center the logo */
-}
-
-/* Style for the logo text */
-.logo-text {
-  display: block;
-  text-align: center;
-  font-size: 2em; /* Increase the font size */
-  margin-top: 10px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Apply new font style */
-  text-decoration: none; /* Remove underline */
-  color: inherit; /* Inherit color from parent */
 }
 
 /* For larger screens, set an appropriate max size */
