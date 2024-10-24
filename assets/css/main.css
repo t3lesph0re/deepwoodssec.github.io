@@ -6,30 +6,32 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* General logo styling for all screen sizes */
+/* General logo styling */
 .company-logo {
   text-align: left;
   margin-bottom: 20px;
 }
 
+/* Ensure the logo scales correctly */
 .company-logo img.logo {
-  max-width: 150px;  /* Keep logo responsive by limiting its size */
-  height: auto;      /* Maintain aspect ratio */
+  max-width: 100%;  /* Prevent the logo from exceeding its container */
+  height: auto;     /* Maintain the correct aspect ratio */
   display: block;
   margin-bottom: 10px;
 }
 
-/* Mobile-specific adjustments */
-@media (max-width: 768px) {
-.company-logo {
-    width: 100px;
-    max-width: 100px;
+/* For larger screens, set an appropriate max size */
+@media (min-width: 769px) {
+  .company-logo img.logo {
+      max-width: 300px;  /* Upper limit for larger screens */
+  }
 }
 
-.company-logo img.logo {
-    max-width: 100px;  /* Smaller logo for mobile */
-    width: 100px;
-}
+/* Smaller size for mobile screens */
+@media (max-width: 768px) {
+  .company-logo img.logo {
+      max-width: 150px;  /* Smaller size for mobile */
+  }
 }
 
 html, body, div, span, applet, object,
