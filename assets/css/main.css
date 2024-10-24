@@ -6,21 +6,30 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Company Logo */
-@media (max-width: 768px) {.company-logo {
-    text-align: left;
-    margin-bottom: 20px;
-    width: 100px;
-    max-width: 100px;
-  }
+/* General logo styling for all screen sizes */
+.company-logo {
+  text-align: left;
+  margin-bottom: 20px;
+}
 
 .company-logo img.logo {
-  max-width: 150px;
-  height: auto;
-  width: 150px;
+  max-width: 150px;  /* Keep logo responsive by limiting its size */
+  height: auto;      /* Maintain aspect ratio */
   display: block;
   margin-bottom: 10px;
-  }
+}
+
+/* Mobile-specific adjustments */
+@media (max-width: 768px) {
+.company-logo {
+    width: 100px;
+    max-width: 100px;
+}
+
+.company-logo img.logo {
+    max-width: 100px;  /* Smaller logo for mobile */
+    width: 100px;
+}
 }
 
 html, body, div, span, applet, object,
