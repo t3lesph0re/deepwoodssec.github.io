@@ -26,6 +26,14 @@
   height: auto; /* Maintain aspect ratio */
 }
 
+/* Style for the logo text */
+.logo-text {
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
 /* For larger screens, set an appropriate max size */
 @media (min-width: 769px) {
   .company-logo img.logo {
