@@ -9,7 +9,7 @@
 /* General logo styling */
 .company-logo {
   text-align: center; /* Center the logo */
-  margin-bottom: 20px;
+  margin-bottom: 10px; /* Space between logo and text */
 }
 
 /* Ensure the logo scales correctly */
