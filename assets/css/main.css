@@ -8,20 +8,11 @@
 
 /* General header styling */
 #header {
+  position: relative;
   display: flex;
   justify-content: space-between; /* Distribute space between logo and LinkedIn button */
   align-items: center; /* Vertically align items */
   text-align: center;
-  padding: 20px 0; /* Add some padding for spacing */
-  border-bottom: 2px solid #162114; /* Change the color of the separator line */
-}
-
-/* General header styling */
-#header {
-  position: relative;
-  display: flex;
-  justify-content: center; /* Center the logo */
-  align-items: center; /* Vertically align items */
   padding: 20px 0; /* Add some padding for spacing */
   border-bottom: 2px solid #162114; /* Change the color of the separator line */
 }
@@ -46,17 +37,20 @@
   }
 }
 
-/* Smaller size for mobile screens */
+/* Center the logo on mobile screens */
 @media (max-width: 768px) {
+  #header {
+    justify-content: center; /* Center the logo */
+  }
   .company-logo img.logo {
       max-width: 150px;  /* Smaller size for mobile */
   }
-}
-
-/* Style for the icons list */
-#header .icons {
-  position: absolute;
-  right: 20px; /* Position the icons on the far right */
+  #header .icons {
+    position: absolute;
+    right: 20px; /* Position the icons on the far right */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust for perfect centering */
+  }
 }
 
 html, body, div, span, applet, object,
