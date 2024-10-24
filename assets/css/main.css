@@ -9,10 +9,11 @@
 /* General header styling */
 #header {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: space-between; /* Distribute space between logo and LinkedIn button */
+  align-items: center; /* Vertically align items */
   text-align: center;
   padding: 20px 0; /* Add some padding for spacing */
+  border-bottom: 2px solid #162114; /* Change the color of the separator line */
 }
 
 /* General logo styling */
@@ -40,6 +41,11 @@
   .company-logo img.logo {
       max-width: 150px;  /* Smaller size for mobile */
   }
+}
+
+/* Style for the icons list */
+#header .icons {
+  margin-left: auto; /* Push the icons to the far right */
 }
 
 html, body, div, span, applet, object,
