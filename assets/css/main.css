@@ -1,14 +1,14 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 /*
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    Editorial by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 /* General logo styling */
 .company-logo {
-  text-align: left;
+  text-align: center; /* Center the logo */
   margin-bottom: 20px;
 }
 
@@ -17,21 +17,18 @@
   max-width: 100%;  /* Prevent the logo from exceeding its container */
   height: auto;     /* Maintain the correct aspect ratio */
   display: block;
-  margin-bottom: 10px;
-}
-
-/* Add this to your assets/css/main.css file */
-.company-logo {
-  max-width: 200px; /* Adjust the value as needed */
-  height: auto; /* Maintain aspect ratio */
+  margin: 0 auto;   /* Center the logo */
 }
 
 /* Style for the logo text */
 .logo-text {
   display: block;
   text-align: center;
-  font-size: 1.5em;
+  font-size: 2em; /* Increase the font size */
   margin-top: 10px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Apply new font style */
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent */
 }
 
 /* For larger screens, set an appropriate max size */
