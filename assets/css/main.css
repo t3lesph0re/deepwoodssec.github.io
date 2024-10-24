@@ -20,6 +20,12 @@
   margin-bottom: 10px;
 }
 
+/* Add this to your assets/css/main.css file */
+.company-logo {
+  max-width: 200px; /* Adjust the value as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
 /* For larger screens, set an appropriate max size */
 @media (min-width: 769px) {
   .company-logo img.logo {
