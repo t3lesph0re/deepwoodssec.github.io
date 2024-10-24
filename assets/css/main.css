@@ -16,6 +16,16 @@
   border-bottom: 2px solid #162114; /* Change the color of the separator line */
 }
 
+/* General header styling */
+#header {
+  position: relative;
+  display: flex;
+  justify-content: center; /* Center the logo */
+  align-items: center; /* Vertically align items */
+  padding: 20px 0; /* Add some padding for spacing */
+  border-bottom: 2px solid #162114; /* Change the color of the separator line */
+}
+
 /* General logo styling */
 .company-logo {
   margin-bottom: 10px; /* Space between logo and text */
@@ -45,7 +55,8 @@
 
 /* Style for the icons list */
 #header .icons {
-  margin-left: auto; /* Push the icons to the far right */
+  position: absolute;
+  right: 20px; /* Position the icons on the far right */
 }
 
 html, body, div, span, applet, object,
