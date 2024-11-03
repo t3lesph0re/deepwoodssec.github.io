@@ -1,0 +1,13 @@
+node_modules/
+resources/*.xcf
+
+.vscode
+.idea
+.jekyll-cache
+
+_psd
+_site
+
+.history/
+*.xcf
+.DS_Store
