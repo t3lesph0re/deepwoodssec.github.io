@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://deepwoodssec.com"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
