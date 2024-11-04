@@ -91,7 +91,7 @@ category_dir: category
 colors:
   #light-mode colors
   primary_bg: "#9BA17B" #Sage
-  primary_bg_2: "#817ba1" #Compliment for bg
+  primary_bg_2: "#3E4031" #Compliment for bg
   primary_bg_3: "#302624" #Brown shade
   primary_text: "#fdfcf9"
   base_bg: "#ffffff"
@@ -105,7 +105,7 @@ colors:
 
   # dark-mode colors
   primary_bg_dark: "#9BA17B" #Sage
-  primary_bg_2_dark: "#817ba1" #Compliment for bg
+  primary_bg_2_dark: "#3E4031" #Compliment for bg
   primary_bg_3_dark: "#302624" #Brown shade
   primary_text_dark: "#fdfcf9"
   base_bg_dark: "#0f0f10"
