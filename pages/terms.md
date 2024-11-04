@@ -1,9 +1,11 @@
 ---
 title: "Terms and Conditions"
-date: 2021-24-01
+date: 2024-04-11
 layout: basic
 permalink: "/terms-and-conditions/"
 ---
+
+Last updated: November 04, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -18,13 +20,13 @@ The words of which the initial letter is capitalized have meanings defined under
 For the purposes of these Terms and Conditions:
 
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- **Country** refers to: California, United States
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Example Site.
+- **Country** refers to: Virginia, United States
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Deep Woods Security, LLC, 8401 MAYLAND DR # 4924 Richmond, VA 23294.
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Service** refers to the Website.
 - **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.privacypolicies.com/terms-conditions-generator/).
 - **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
-- **Website** refers to Example Site, accessible from [https://www.example.com](https://www.example.com)
+- **Website** refers to Deep Woods Security, LLC, accessible from [https://deepwoodssec.com](https://deepwoodssec.com)
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
 # Acknowledgment
@@ -109,4 +111,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: example@example.com
+- By email: info@deepwoodssec.com
