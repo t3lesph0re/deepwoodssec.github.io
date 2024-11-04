@@ -8,8 +8,8 @@ meta_title: Deep Woods Security, LLC
 
 hero:
   enabled: true
-  heading: "Welcome to Deep Woods Security!"
-  sub_heading: "Protecting What Matters: Intelligence-Driven Security for a Safer Tomorrow"
+  heading: "Welcome to Deep Woods Security – Your Shield Against Digital Threats"
+  sub_heading: "Empowering You to Stay Secure with Intelligence-Driven, Proactive Defense Solutions"
   text_color: "#FFFFFF"
   background_color: "#01796F"
   background_gradient: true
