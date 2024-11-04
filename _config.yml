@@ -7,6 +7,7 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
+enable_fixed_header: true # if true the header will be sticky and animate on scroll
 
 # Plugins
 plugins:
