@@ -18,12 +18,9 @@ main:
         url: /services/seo/
       - name: "Software Engineering"
         url: /services/software-engineering/
-  - name: Blog
-    url: /blog/
-    weight: 3
   - name: About
     url: /about/
-    weight: 4
+    weight: 3
 footer_primary:
   - name: Home
     url: /
@@ -31,19 +28,13 @@ footer_primary:
   - name: Services
     url: /services/
     weight: 2
-  - name: Team
-    url: /team/
-    weight: 3
 footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 1
   - name: About
     url: /about/
-    weight: 2
+    weight: 1
   - name: Contact
-    url: /contact/
-    weight: 3
+    url: https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u
+    weight: 2
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/

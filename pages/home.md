@@ -110,7 +110,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3
