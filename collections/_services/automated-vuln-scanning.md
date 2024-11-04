@@ -6,8 +6,8 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-source-code-100.png"
-thumbnail: "/assets/images/gen/services/scan-background.jpg"
-image: "/assets/images/gen/services/scan-background.jpg"
+thumbnail: "/assets/images/gen/services/scan-background_4500x3000.jpg"
+image: "/assets/images/gen/services/scan-background_4500x3000.jpg"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/scan-background.jpg"
+  background_image: "/assets/images/gen/services/scan-background_4500x3000.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
