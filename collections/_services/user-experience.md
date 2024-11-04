@@ -1,6 +1,6 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
+title: "Web Application Penetration Testing"
+description: "Simulate real-world attacks to uncover vulnerabilities in web apps, helping organizations strengthen defenses and protect sensitive data."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -10,8 +10,8 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Web Application Penetration Testing"
+  sub_heading: "Simulate real-world attacks to uncover vulnerabilities in web apps, helping organizations strengthen defenses and protect sensitive data."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

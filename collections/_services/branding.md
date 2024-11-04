@@ -1,6 +1,6 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "Network Penetration Testing"
+description: "Identify vulnerabilities within network infrastructure, helping organizations secure their systems against unauthorized access and potential threats."
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "Network Penetration Testing"
+  sub_heading: "Identify vulnerabilities within network infrastructure, helping organizations secure their systems against unauthorized access and potential threats."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

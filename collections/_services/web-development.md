@@ -1,6 +1,6 @@
 ---
-title: "Web Development"
-description: "Our experienced software engineers develop websites and desktop applications"
+title: "Automated Vulnerability Scanning"
+description: "Quickly identify security weaknesses across systems and provide prioritized reports to maintain a strong security posture."
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Web Development"
-  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  heading: "Automated Vulnerability Scanning"
+  sub_heading: "Quickly identify security weaknesses across systems and provide prioritized reports to maintain a strong security posture."
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true

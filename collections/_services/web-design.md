@@ -1,6 +1,6 @@
 ---
-title: "Web Design"
-description: "Design beautiful modern websites using the Jamstack."
+title: "Red Team Engagements"
+description: "Simulate advanced, real-world attacks to test an organization’s defenses, providing insights to enhance detection, response, and overall security resilience."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  heading: "Red Team Engagements"
+  sub_heading: "Simulate advanced, real-world attacks to test an organization’s defenses, providing insights to enhance detection, response, and overall security resilience."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
