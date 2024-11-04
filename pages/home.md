@@ -105,7 +105,7 @@ outro:
     enabled: true
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u"
         external: false
         size: "large"
 
