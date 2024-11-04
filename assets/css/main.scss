@@ -17,11 +17,6 @@
   --color-base-text: {{ site.colors.base_text | default: "#202020" }};
   --color-base-text-2: {{ site.colors.base_text_2 | default: "#4b5563" }};
   --color-header-text:  {{ site.colors.header_text | default: "#111827" }};
-  /* New footer and bottom section variables */
-  --color-footer-bg: {{ site.colors.footer_bg }};
-  --color-footer-text: {{ site.colors.footer_text }};
-  --color-bottom-bg: {{ site.colors.bottom_bg }};
-  --color-bottom-text: {{ site.colors.bottom_text }};
   
   --logo-text-font-size: {{ site.logo.logo_text_font_size | default: "28px" }};
   --logo-text-font-weight: {{ site.logo.logo_text_font_weight | default: "500" }};
@@ -49,45 +44,7 @@ html[data-bs-theme='dark'] {
   --color-base-text-2: {{ site.colors.base_text_2_dark | default: "#D1D5DB" }};
   --color-logo-text: {{ site.colors.logo_text_dark | default: "#F4F4F5" }};
   --color-header-text: {{ site.colors.header_text_dark | default: "#F4F4F5" }};
-   /* Dark mode footer and bottom section variables */
-   --color-footer-bg: {{ site.colors.footer_bg_dark }};
-   --color-footer-text: {{ site.colors.footer_text_dark }};
-   --color-bottom-bg: {{ site.colors.bottom_bg_dark }};
-   --color-bottom-text: {{ site.colors.bottom_text_dark }};
 }
 
-/* Seb added this */
-.footer, .site-footer {
-  background-color: var(--color-footer-bg);
-  color: var(--color-footer-text);
-}
-
-.bottom-section {
-  background-color: var(--color-bottom-bg);
-  color: var(--color-bottom-text);
-}
-
-/* Contact Page */
-/* Ensures the contact form fills the entire screen height */
-body.full-page-form {
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-}
-
-.container {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
 
 @import 'style';
