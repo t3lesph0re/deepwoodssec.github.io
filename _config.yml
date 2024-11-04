@@ -100,7 +100,7 @@ colors:
   text_2: "#3b364c"
   logo_text: "#2b3af7"
   header_text: "#0d042b"
-   footer_bg: "#01796F"      # Pine green for light mode footer
+  footer_bg: "#01796F"      # Pine green for light mode footer
   footer_text: "#FFFFFF"     # White text for footer
   bottom_bg: "#01796F"       # Pine green for bottom section
   bottom_text: "#FFFFFF"     # White text for bottom section
