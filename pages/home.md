@@ -8,8 +8,8 @@ meta_title: Deep Woods Security, LLC
 
 hero:
   enabled: true
-  heading: "Deep Woods Security – Your Digital Shield"
-  sub_heading: "Empowering You to Stay Secure with Intelligence-Driven, Proactive Defense Solutions."
+  heading: "Deep Woods Security – Your Trusted Partner in Digital Defense"
+  sub_heading: "Securing Your Digital Landscape with Intelligence-Driven, Proactive Penetration Testing."
   text_color: "#FFFFFF"
   background_color: "#01796F"
   background_gradient: true
