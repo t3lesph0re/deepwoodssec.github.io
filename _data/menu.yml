@@ -7,13 +7,13 @@ main:
     weight: 2
     child:
       - name: "Automated Vulnerability Scanning"
-        url: /services/web-development/
+        url: /services/automated-vuln-scanning/
       - name: "Web Application Penetration Testing"
-        url: /services/user-experience/
+        url: /services/web-app-penetration-testing/
       - name: "Network Penetration Testing"
-        url: /services/branding/
+        url: /services/network-penetration-testing/
       - name: "Red Team Engagements"
-        url: /services/web-design/
+        url: /services/red-team-engagements/
   - name: About
     url: /about/
     weight: 3
