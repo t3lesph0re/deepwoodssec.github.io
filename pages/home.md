@@ -11,7 +11,7 @@ hero:
   heading: "Welcome to Deep Woods Security!"
   sub_heading: "Protecting What Matters: Intelligence-Driven Security for a Safer Tomorrow"
   text_color: "#FFFFFF"
-  background_color: "#1d2830"
+  background_color: "#01796F"
   background_gradient: true
   background_image: "/assets/images/gen/home/router.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
