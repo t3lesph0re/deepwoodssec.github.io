@@ -1,18 +1,18 @@
 ---
 layout: list
 title: Services
-description: "A selection of our digital services"
+description: "Advanced cybersecurity services to protect your digital assets."
 permalink: "/services/"
 header_transparent: true
 
 hero:
   enabled: true
   heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  sub_heading: "Advanced cybersecurity services to protect your digital assets."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-8-large.webp"
+  background_image: "/assets/images/gen/home/services-background.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
