@@ -1,6 +1,6 @@
 ---
 layout: contact
-title: Contact
+title: ""
 body_classes: page-contact
 ---
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u&embed=true" 
