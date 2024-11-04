@@ -6,18 +6,14 @@ main:
     url: /services/
     weight: 2
     child:
-      - name: "Web Development"
+      - name: "Automated Vulnerability Scanning"
         url: /services/web-development/
-      - name: "UX"
+      - name: "Web Application Penetration Testing"
         url: /services/user-experience/
-      - name: "Branding"
+      - name: "Network Penetration Testing"
         url: /services/branding/
-      - name: "Web Design"
+      - name: "Red Team Engagements"
         url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
   - name: About
     url: /about/
     weight: 3
