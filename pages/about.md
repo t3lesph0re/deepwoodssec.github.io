@@ -22,20 +22,6 @@ hero:
         external: true
         fa_icon: false
         size: large
-
-outro:
-  enabled: true
-  align: left
-  image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free consultation!"
-  buttons:
-    enabled: true
-    list:
-      - text: "Contact Us"
-        url: "https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u"
-        external: true
-        size: normal
 ---
 
 # Creating Modern Websites
