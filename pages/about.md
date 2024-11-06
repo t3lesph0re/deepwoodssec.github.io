@@ -34,8 +34,7 @@ outro:
     list:
       - text: "Contact Us"
         url: "https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u"
-        external: false
-        fa_icon: false
+        external: true
         size: normal
 ---
 
