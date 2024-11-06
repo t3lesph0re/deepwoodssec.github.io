@@ -6,7 +6,7 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/red_team2.jpg"
+thumbnail: "/assets/images/gen/services/red_team2-background.jpg"
 image: "/assets/images/gen/services red_team2-background.jpg"
 
 hero:
