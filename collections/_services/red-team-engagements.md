@@ -6,8 +6,8 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/red_team1-background_6000x4000.jpg"
-image: "/assets/images/gen/services red_team1-background.jpg"
+thumbnail: "/assets/images/gen/services/red_team2.jpg"
+image: "/assets/images/gen/services red_team2-background.jpg"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/red_team1-background.jpg"
+  background_image: "/assets/images/gen/services/red_team2-background.jpg"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;
