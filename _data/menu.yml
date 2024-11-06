@@ -17,6 +17,9 @@ main:
   - name: About
     url: /about/
     weight: 3
+  - name: Contact
+    url: https://forms.office.com/Pages/ResponsePage.aspx?id=aI1skBgLI0Ows7hkRyBL6wrTKQPwR8tCpZBlNanGmwFUOTNVMTlGSUk1WlBSNDJTUlNBSFU2STdKQS4u
+    weight: 4
 footer_primary:
   - name: Home
     url: /
