@@ -4,13 +4,13 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "Test2 - Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: "Learn more about Deep Woods Security and our commitment to providing top-notch cybersecurity services."
+image: "/assets/images/gen/content/DWS_DesktopWallpaper.jpg"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  sub_heading: "Learn more about Deep Woods Security and our commitment to providing top-notch cybersecurity services."
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
