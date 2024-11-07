@@ -24,40 +24,28 @@ hero:
         size: large
 ---
 
-# Creating Modern Websites
+# Our Mission
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+At Deep Woods Security, our mission is clear: to protect and empower our community by delivering security solutions that go beyond compliance to genuinely enhance resilience. Our goal is to build safer digital spaces where businesses and individuals alike can thrive, knowing their data and systems are secure. With every project, we bring the latest intelligence-driven insights and techniques to safeguard what matters most, helping to uphold not only our clients’ security but also national integrity.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+# Our Story
 
-## What is Web Design?
+Deep Woods Security was born from a passion for cybersecurity and a deep-rooted belief in the importance of proactive defense. As professionals in penetration testing and red teaming, our team members have spent years studying the ever-evolving landscape of cyber threats. Seeing firsthand the consequences of inadequate security on businesses and the broader community, we set out to create a company that could bridge the gap between defense and understanding, helping clients see their systems from an attacker’s perspective.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+# Our Team
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+Our team of cybersecurity experts combines diverse backgrounds, including ethical hacking, threat intelligence, and vulnerability assessment. Each member brings unique skills and certified expertise, from the PNPT to OSCP credentials, enabling us to tackle even the most sophisticated cyber threats with precision. We take pride in the technical excellence and dedication of our team, who share a commitment to continuous learning and adapting to the latest attack tactics.
 
-## Front-end Development
+# Our Values
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+Integrity, transparency, and resilience are at the heart of everything we do. We believe in:
 
-> As a UX designer, you should consider the Why, What and How of product use.
+- Integrity: We uphold the highest standards of ethics and honesty in every engagement, ensuring clients can trust our assessments and recommendations.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+- Transparency: Cybersecurity can be complex, but we’re here to simplify it. We communicate clearly and provide actionable insights, empowering our clients with knowledge.
 
-## Design Systems
+- Resilience: In today’s digital world, security isn’t a one-time effort—it’s an ongoing journey. We strive to create sustainable security solutions that adapt as threats evolve.
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+# Why We Started
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+We founded Deep Woods Security because we believe everyone deserves the peace of mind that comes with a secure digital environment. Inspired by the natural resilience of the deep woods, we wanted to bring that same strength and protection to our clients. We saw an opportunity to help businesses proactively defend themselves by offering the attacker’s perspective, illuminating weaknesses before they become risks. By combining technical expertise with a community-centered mission, we are proud to contribute to the broader goal of strengthening national security, one client at a time.
