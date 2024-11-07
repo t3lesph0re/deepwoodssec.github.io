@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
+icon: "/assets/images/icons/DWS_WebsiteIcons_Black-02.png"
 thumbnail: "/assets/images/gen/services/red_team2-background.jpg"
 image: "/assets/images/gen/services red_team2-background.jpg"
 

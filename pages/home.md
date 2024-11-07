@@ -13,7 +13,7 @@ hero:
   text_color: "#FFFFFF"
   background_color: "#01796F"
   background_gradient: true
-  background_image: "/assets/images/gen/home/DWS_DesktopWallpaper.jpg"
+  background_image: "/assets/images/gen/home/DWS_Header.png"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false

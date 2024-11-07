@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
+icon: "/assets/images/icons/DWS_WebsiteIcons_Black-04.png"
 thumbnail: "/assets/images/gen/home/router.jpg"
 image: "/assets/images/gen/home/router.jpg"
 
