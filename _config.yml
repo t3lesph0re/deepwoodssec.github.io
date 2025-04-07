@@ -13,6 +13,7 @@ enable_fixed_header: true # if true the header will be sticky and animate on scr
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate
+  - jekyll-redirect-from
 
 paginate: 6
 paginate_path: "/blog/page/:num"
