@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Learn more about Deep Woods Security and our commitment to providing top-notch cybersecurity services."
-image: "/assets/images/gen/home/DWS_DesktopWallpaper.jpg"
+image: "/assets/images/gen/home/DWS_DesktopWallpaper.webp"
 
 hero:
   enabled: false
