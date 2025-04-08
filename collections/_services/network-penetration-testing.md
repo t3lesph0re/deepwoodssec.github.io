@@ -6,8 +6,8 @@ weight: 3
 header_transparent: true
 fa_icon: false
 icon: "/assets/images/icons/DWS_WebsiteIcons_Black-04.png"
-thumbnail: "/assets/images/gen/home/router.jpg"
-image: "/assets/images/gen/home/router.jpg"
+thumbnail: "/assets/images/gen/home/router.webp"
+image: "/assets/images/gen/home/router.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/home/router.jpg"
+  background_image: "/assets/images/gen/home/router.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
