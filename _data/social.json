@@ -8,5 +8,10 @@
     "title": "GitHub",
     "fa_icon": "fab fa-github",
     "url": "https://github.com/Deep-Woods-Security/"
+  },
+  {
+    "title": "Instagram",
+    "fa_icon": "fab fa-instagram",
+    "url": "https://www.instagram.com/deepwoodssec/"
   }
 ]
