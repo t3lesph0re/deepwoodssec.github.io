@@ -6,8 +6,8 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "/assets/images/icons/DWS_WebsiteIcons_Black-02.png"
-thumbnail: "/assets/images/gen/services/red_team2-background.jpg"
-image: "/assets/images/gen/services red_team2-background.jpg"
+thumbnail: "/assets/images/gen/services/red_team2-background.webp"
+image: "/assets/images/gen/services red_team2-background.webp"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/red_team2-background.jpg"
+  background_image: "/assets/images/gen/services/red_team2-background.webp"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;
