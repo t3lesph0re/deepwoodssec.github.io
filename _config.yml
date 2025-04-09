@@ -151,12 +151,12 @@ header:
   #meta_twitter_site: "@zerostaticio"
   #meta_twitter_creator: "@zerostaticio"
 
-darkmode:
-  enable_dark_mode: true
-  show_dark_mode_toggle_in_header: false
-  show_dark_mode_toggle_in_bottom: true
-  show_dark_mode_toggle_in_mobile_menu: true
-
+ui:
+  darkmode:
+    enable: true
+    default: dark
+    toggle: false
+    
 cookie_banner:
   enabled: false
   show_manage_cookies_at_bottom: false
