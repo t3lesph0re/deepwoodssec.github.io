@@ -6,7 +6,7 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "/assets/images/icons/DWS_WebsiteIcons_Black-03.png"
-thumbnail: "/assets/images/gen/services/scan-background.webp"
+thumbnail: "/assets/images/gen/services/scan-background8.webp"
 image: "/assets/images/gen/services/scan-background8.webp"
 
 hero:
